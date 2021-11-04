@@ -1,0 +1,19 @@
+Servidor -> 
+npm init -y
+npm install express
+
+Banco
+ferramenta de construção de query: knex
+banco sqLite
+inicializar: npx knex init
+
+React 
+npx create-react-app <nome>
+npm start
+react-icons
+react-router-dom
+
+App
+npm install -g expo-cli
+expo init <nome da aplicação>
+
